@@ -27,10 +27,10 @@ The training data was split using scikit-learn train_test_split for cross-valida
 
 I tested the models with linear regression and lasso. Both gave similar results and minimal variation from one another.
 
-| Model | Test R^2 Score | Test RMSE |
-|---|---|---|---|
-| Linear Regression | 0.9062 | 25,657 | 
-| Lasso | 0.9056 | 25,740 |
+Model | Test R^2 Score | Test RMSE 
+--- |--- | ---
+Linear Regression | 0.9062 | 25,657
+Lasso | 0.9056 | 25,740
 
 
 ### Conclusion
