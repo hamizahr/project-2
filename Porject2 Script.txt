@@ -1,0 +1,90 @@
+Okay hi!
+
+[Slide 1- Till photos]
+
+As seen in the title, its how not to get ripped off when you buy a house.
+Have you ever wondered how these, or these and these houses are valued for?
+What are people looking for in general?
+
+Well with the ease of the web, people have been using 
+real estate listing websites to hunt for the best houses and prices
+instead of relying on a realtor.
+About 51% of buyers found the house of their dreams online 
+on platforms like Zillow, Realtor.com and more..
+
+
+
+[Slide 2- After photos]
+
+However without a realtor its hard to get a relative sense of what
+is a good price or what the house is worth.
+
+An average house price of the same squarefooting could vary 
+in the same neighbourhood. What if its renovated/furnished? 
+How will the price range?
+
+With these questions, how do we equip buyers with valuable information
+that could assist them to compare the properties they're interested in?
+
+
+
+[Slide 3-Problem Statement]
+To tackle this problem, a simplified framework will be introduced with
+significant factors that can swing the house prices.
+
+This simplified model aims to helps the buyer to guess-timate 
+the house prices on-site without the use of tech.
+
+From a economic standpoint, this allows a quicker evaluation and 
+efficient way to price the house ensuring that the market place is fair.
+
+-- Over to Gary --
+
+[Final 30 features slides]
+Just say the first 5.
+
+
+[Coefficients of the 30 features]
+How did we derive to the specific features?
+We split it to 2 cats for practicality use.
+For this case we look at features coefficients above > 0.04
+The split are Major Features and Minor Features it will be elaborated in the next slide
+
+
+[Simplified framework slide]
+In general, these features will swing the prices.
+-Mention the features-
+For example if a person is looking to buy a house with a big basement
+should they fork out extra is it worth it? Yes it is.
+
+-Another example if the house have 2 kitchens, should the buyer
+pay more for the extra kitchen? The ans would be no as the sale price
+decreases because not many people need more than 1 kitchen.
+
+
+
+[Last slide]
+Based on the model, the features that are choosen has a coeffcient 
+that are more than 0.04 to determine the importance of it.
+
+The other features did not significantly impact the sale prices
+so best to not consider them.
+
+and the features that are significant and could swing the prices
+are the 8 specific features, the information from this model 
+would help the buyers make informed decisions to consider if its valued appropriately.
+
+Thank you!
+
+
+
+
+
+
+
+
+
+
+
+
+
